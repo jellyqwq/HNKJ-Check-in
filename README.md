@@ -1,3 +1,5 @@
+# Note: This project is outdated.
+
 # HNKJ-Check-in
  HaiNan Vocational University Of Science And Technology Daily Check In
 
